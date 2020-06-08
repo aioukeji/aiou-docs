@@ -2,7 +2,6 @@
 id: Account
 title: Account
 sidebar_label: Account
-original_id: Account
 ---
 
 

@@ -2,7 +2,6 @@
 id: GasChargeTable
 title: Gas Charge Table
 sidebar_label: Gas Charge Table
-original_id: GasChargeTable
 ---
 
 

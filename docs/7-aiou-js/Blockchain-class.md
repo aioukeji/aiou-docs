@@ -2,7 +2,6 @@
 id: Blockchain-class
 title: Blockchain
 sidebar_label: Blockchain
-original_id: Blockchain-class
 ---
 
 This is the main class that interact with AIOU blockchain and AIOU smart contracts to get informations from them.

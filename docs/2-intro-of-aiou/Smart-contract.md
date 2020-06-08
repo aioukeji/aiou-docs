@@ -2,7 +2,6 @@
 id: Smart-contract
 title: Smart Contract
 sidebar_label: Smart Contract
-original_id: Smart-contract
 ---
 
 Smart contracts receive and execute transactions within the block, in order to maintain the variables of smart contract insides blockchain and produce irreversible proof. AIOU implements general ABI interfaces, plug-and-play multi-language support, and can generate the result of the consensus. This has substantially improved the usability of the blockchain.

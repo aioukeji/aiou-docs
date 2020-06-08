@@ -2,7 +2,6 @@
 id: ContractStart
 title: Smart Contract Quick Start
 sidebar_label: Smart Contract Quick Start
-original_id: ContractStart
 ---
 
 

@@ -2,7 +2,6 @@
 id: LocalServer
 title: Launch Local Server
 sidebar_label: Launch Local Server
-original_id: LocalServer
 ---
 There are two methods to launch local server: using docker or natively.
 

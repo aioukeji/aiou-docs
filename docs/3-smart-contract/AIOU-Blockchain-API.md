@@ -2,7 +2,6 @@
 id: AIOU-Blockchain-API
 title: AIOU Blockchain API
 sidebar_label: AIOU Blockchain API
-original_id: AIOU-Blockchain-API
 ---
 
 

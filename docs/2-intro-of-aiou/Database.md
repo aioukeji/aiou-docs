@@ -2,7 +2,6 @@
 id: Database
 title: Database
 sidebar_label: Database
-original_id: Database
 ---
 
 The database layer of AIOU is structured as below:

@@ -2,7 +2,6 @@
 id: Become-Servi-Node
 title: Become Servi Node
 sidebar_label: Become Servi Node
-original_id: Become-Servi-Node
 ---
 
 A Servi Node requires an AIOU account, to receive reward, and a full node, to generate blocks.  

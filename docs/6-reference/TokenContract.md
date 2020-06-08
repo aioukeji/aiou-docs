@@ -2,7 +2,6 @@
 id: TokenContract
 title: Token Contract
 sidebar_label: Token Contract
-original_id: TokenContract
 ---
 
 ## token.aiou

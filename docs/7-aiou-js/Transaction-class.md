@@ -2,7 +2,6 @@
 id: Transaction-class
 title: Transaction
 sidebar_label: Transaction
-original_id: Transaction-class
 ---
 
 This is the main class that interact with AIOU blockchain and AIOU smart contracts to send and get transactions from them.

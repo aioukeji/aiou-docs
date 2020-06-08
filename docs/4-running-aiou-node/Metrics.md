@@ -2,7 +2,6 @@
 id: Metrics
 title: Metrics
 sidebar_label: Metrics
-original_id: Metrics
 ---
 
 Metrics is a tool that monitors system performance. We use [Prometheus](https://prometheus.io) for our system.

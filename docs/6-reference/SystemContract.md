@@ -2,7 +2,6 @@
 id: SystemContract
 title: SystemContract
 sidebar_label: System Contract
-original_id: SystemContract
 ---
 
 ## vote_producer.aiou

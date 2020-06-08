@@ -2,7 +2,6 @@
 id: VM
 title: VM
 sidebar_label: VM
-original_id: VM
 ---
 
 We believe a good implementation of virtual machine needs to be both elegantly designed, easy to use, and secure. After comparing the pros and cons of EVM, EOS, C Lua and V8, we have fundamentally resolved unreasonable designs of EVM and EOS. We have managed to build the AIOU VM based on V8 due to on the its high performance on Chrome.

@@ -2,7 +2,6 @@
 id: Token
 title: Create IRC20 Token
 sidebar_label: Create IRC20 Token
-original_id: Token
 ---
 ## IRC20
 

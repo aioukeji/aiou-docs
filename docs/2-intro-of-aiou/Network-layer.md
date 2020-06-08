@@ -2,7 +2,6 @@
 id: Network-layer
 title: Network layer
 sidebar_label: Network layer
-original_id: Network-layer
 ---
 
 P2P (Peer-to-Peer) Network, or Peer Network, is a decentralized structure that distributes tasks and workload among peers. In P2P Networks, connected computers are equal to one another, and each node is both a provider and a consumer of resource, service, and contents. In contrast to traditional Client-Server network models, P2P Networks has the advantages of being decentralized, scalable, attack resistant, and private. These advantages ensure the operations of the blockchain system, and are cornerstones of a free, autonomous, and decentralized blockchain.

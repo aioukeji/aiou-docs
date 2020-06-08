@@ -2,7 +2,6 @@
 id: Quickstart
 title: Quickstart
 sidebar_label: Quickstart
-original_id: Quickstart
 ---
 
 This page provides a guide for different kinds of users to find out which parts in the documentations to look at.

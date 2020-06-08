@@ -23,7 +23,7 @@ const users = [
 const siteConfig = {
   title: 'AIOU Chain Docs', // Title for your website.
   tagline: 'aiou chain docs',
-  url: 'https://developer.aioukeji.net', // Your website URL
+  url: 'https://developer.aioukeji.net/', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',

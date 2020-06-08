@@ -2,7 +2,6 @@
 id: Generate-Receipt
 title: Generate Receipt in Smart Contract
 sidebar_label: Generate Receipt in Smart Contract
-original_id: Generate-Receipt
 ---
 ## Feature
 Receipt is used to prove or remind the occurrence of certain operations, 

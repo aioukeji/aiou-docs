@@ -2,7 +2,6 @@
 id: Overview
 title: Overview
 sidebar_label: Overview
-original_id: Overview
 ---
 
 Welcome to AIOU documentations!

@@ -2,7 +2,6 @@
 id: KeyPair-class
 title: KeyPair
 sidebar_label: KeyPair
-original_id: KeyPair-class
 ---
 
 This is the main class that used to create AIOU account keyPairs.

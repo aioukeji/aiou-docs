@@ -2,7 +2,6 @@
 id: Economic-model
 title: Economic model
 sidebar_label: Economic model
-original_id: Economic-model
 ---
 # Summary
 

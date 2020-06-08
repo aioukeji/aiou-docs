@@ -2,7 +2,6 @@
 id: AIOU-class
 title: AIOU
 sidebar_label: AIOU
-original_id: AIOU-class
 ---
 
 This is the main class that create transactions to send to AIOU blockchain and AIOU smart contracts.

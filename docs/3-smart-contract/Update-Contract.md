@@ -2,7 +2,6 @@
 id: Update-Contract
 title: Update Contract
 sidebar_label: Update Contract
-original_id: Update-Contract
 ---
 
 ## Features

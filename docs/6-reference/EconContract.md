@@ -2,7 +2,6 @@
 id: EconContract
 title: Economic Contract
 sidebar_label: Economic Contract
-original_id: EconContract
 ---
 
 ## gas.aiou
